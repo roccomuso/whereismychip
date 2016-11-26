@@ -22,7 +22,7 @@ It scans the current subnet looking for hosts with a MAC Address starting with <
 
 ## Inspired by
 
-This is a Node.js porting of the RPi implementation: [roccomuso/WhereIsMyPi](https://github.com/roccomuso/WhereIsMyPi)
+This project is inspired by the implementation for Raspberry Pi: [roccomuso/WhereIsMyPi](https://github.com/roccomuso/WhereIsMyPi)
 
 ## License
 
