@@ -8,7 +8,7 @@ Node.js module to find IP Addresses of all the CHIP (getchip.com) on the LAN.
 
 ## Usage
 
-    > whereismypi
+    > whereismychip
     IP: 192.168.88.111 - MAC Address: cc:79:cf:24:d4:f5
 
 ## How it works
