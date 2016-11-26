@@ -4,7 +4,7 @@ Node.js module to find IP Addresses of all the CHIP (getchip.com) on the LAN.
 
 ## Install
 
-    npm install whereismychip -g
+    npm install -g whereismychip
 
 ## Usage
 
